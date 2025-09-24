@@ -170,16 +170,3 @@ O impacto é potencialmente disruptivo: uma nova álgebra viva.
 5. Conclusão
 
 A RafaelIA não é apenas teoria: é infraestrutura simbiótica para ciência futura.
-O próximo passo é consolidar:
-
-1. Simulador RafBit.
-
-
-2. Banco de dados fractais aberto.
-
-
-3. Publicação Zenodo/arXiv com DOI validando autoria.
-
-
-
-
